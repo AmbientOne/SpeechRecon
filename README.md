@@ -1,0 +1,1 @@
+This is my long term speech recogition program that lets you speak into your computer that repeats it to you. 
